@@ -1,0 +1,48 @@
+{
+  "name": "@snakeeye-sudo/create-github-profile",
+  "version": "1.0.0",
+  "description": "🚀 CLI tool to create amazing GitHub Profile READMEs with 10 stunning templates",
+  "main": "index.js",
+  "bin": {
+    "create-github-profile": "./bin/cli.js"
+  },
+  "scripts": {
+    "start": "node bin/cli.js",
+    "test": "echo \"No tests yet\" && exit 0"
+  },
+  "keywords": [
+    "github",
+    "profile",
+    "readme",
+    "template",
+    "cli",
+    "generator",
+    "markdown",
+    "github-profile",
+    "readme-generator",
+    "profile-readme"
+  ],
+  "author": "SnakeEye-sudo (Er. Sangam Krishna)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SnakeEye-sudo/awesome-profile-readme-templates.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com",
+    "@snakeeye-sudo:registry": "https://npm.pkg.github.com"
+  },
+  "bugs": {
+    "url": "https://github.com/SnakeEye-sudo/awesome-profile-readme-templates/issues"
+  },
+  "homepage": "https://github.com/SnakeEye-sudo/awesome-profile-readme-templates#readme",
+  "dependencies": {
+    "inquirer": "^9.2.12",
+    "chalk": "^5.3.0",
+    "ora": "^7.0.1",
+    "boxen": "^7.1.1"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
