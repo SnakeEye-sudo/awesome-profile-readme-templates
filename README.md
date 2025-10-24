@@ -1,6 +1,31 @@
 # 🚀 Awesome GitHub Profile README Templates
 
 > A comprehensive collection of stunning GitHub Profile README templates, powerful tools, generators, and curated resources to transform your profile into a professional showcase!
+>
+> ## 📦 Quick Start - CLI Tool
+
+Generate your perfect GitHub profile README in seconds using our interactive CLI!
+
+### Install & Run
+
+```bash
+# Run with npx (no installation needed)
+npx @snakeeye-sudo/create-github-profile
+
+# Or install globally
+npm install -g @snakeeye-sudo/create-github-profile
+create-github-profile
+```
+
+### Features
+- ✨ Interactive prompts with beautiful UI
+- 🎨 3 professionally designed templates
+- ⚡ Generate in < 2 seconds
+- 💾 Auto-save to README.md
+- 🔧 Fully customizable
+
+📖 **Full documentation:** [PACKAGE_GUIDE.md](./PACKAGE_GUIDE.md)
+
 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
