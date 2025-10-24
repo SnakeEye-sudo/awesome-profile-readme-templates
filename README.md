@@ -22,6 +22,82 @@
 
 ---
 
+## 🎆 Template Showcase
+
+> 👀 Visual preview of all 10 templates - Click to see what each template looks like!
+
+<details>
+<summary><b>1️⃣ Template 1: Minimalist Developer</b> - Clean & Simple Design</summary>
+
+### Preview:
+```
+┌─────────────────────────────────────────────────────┐
+│      Hi there, I'm [Your Name] 👋            │
+│                                                 │
+│  Software Developer | Open Source Enthusiast  │
+│                                                 │
+│  🔧 Tech: JavaScript, Python, React, Node.js │
+│  📈 GitHub Stats + Badges                      │
+│  📫 Contact: email | LinkedIn | Twitter       │
+└─────────────────────────────────────────────────────┘
+```
+**Best for:** Professionals who want a clean, no-nonsense profile
+**Features:** Simple layout, essential info, social badges, GitHub stats
+
+</details>
+
+<details>
+<summary><b>2️⃣ Template 2: Professional Portfolio</b> - Complete with Bio & Stats</summary>
+
+### Preview:
+```
+┌─────────────────────────────────────────────────────┐
+│     Hi 👋, I'm [Your Name]                     │
+│  A passionate Full Stack Developer              │
+│                                                 │
+│  👨‍💻 About Me:                                  │
+│   🔭 Working on: [Current Project]             │
+│   🌱 Learning: [New Technology]                 │
+│   💬 Ask me about: JavaScript, React          │
+│                                                 │
+│  🛠️ Tech Stack: [40+ icon badges]              │
+│  📈 GitHub Stats: [3 stat cards]               │
+│  🌐 Connect: LinkedIn | Twitter | Email       │
+└─────────────────────────────────────────────────────┘
+```
+**Best for:** Developers looking for jobs or showcasing portfolio
+**Features:** Detailed about section, tech icons, multiple stats cards
+
+</details>
+
+<details>
+<summary><b>3️⃣ Template 3: Animated & Dynamic</b> - With Typing Effects</summary>
+
+### Preview:
+```
+┌─────────────────────────────────────────────────────┐
+│  ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓  │
+│  ┃ Hi 👋 Welcome to my GitHub! ▌       ┃  │
+│  ┃ I'm a Full Stack Developer ▌          ┃  │
+│  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛  │
+│           [Typing Animation]                  │
+│                                                 │
+│  const developer = {                          │
+│    name: "Your Name",                         │
+│    role: "Full Stack",                        │
+│    code: ["JS", "Python", "TypeScript"]       │
+│  };                                            │
+│                                                 │
+│  💻 Tech Stack Badges (for-the-badge style)  │
+│  📈 Analytics: Stats + Streak + Trophies     │
+│  🎯 2025 Goals Checklist                     │
+└─────────────────────────────────────────────────────┘
+```
+**Best for:** Creative developers who want eye-catching profiles
+**Features:** Typing SVG animation, code blocks, trophies, activity graph
+
+</details>
+
 ## ✨ Featured Templates
 
 ### Template 1: Minimalist Developer
