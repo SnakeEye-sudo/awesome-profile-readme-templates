@@ -2,6 +2,7 @@
 
 > A comprehensive collection of stunning GitHub Profile README templates, powerful tools, generators, and curated resources to transform your profile into a professional showcase!
 >
+> [![GitHub release](https://img.shields.io/github/v/release/SnakeEye-sudo/awesome-profile-readme-templates?label=version)](https://github.com/SnakeEye-sudo/awesome-profile-readme-templates/releases) [![Publish Package](https://github.com/SnakeEye-sudo/awesome-profile-readme-templates/actions/workflows/publish.yml/badge.svg)](https://github.com/SnakeEye-sudo/awesome-profile-readme-templates/actions/workflows/publish.yml) [![License](https://img.shields.io/github/license/SnakeEye-sudo/awesome-profile-readme-templates)](LICENSE) [![GitHub stars](https://img.shields.io/github/stars/SnakeEye-sudo/awesome-profile-readme-templates?style=social)](https://github.com/SnakeEye-sudo/awesome-profile-readme-templates/stargazers)
 > ## 📦 Quick Start - CLI Tool
 
 Generate your perfect GitHub profile README in seconds using our interactive CLI!
